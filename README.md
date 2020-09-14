@@ -6,6 +6,7 @@ You can view the Kaggle Notebook [here.](https://www.kaggle.com/uday47/face-emot
 
 Due to computational limitations, model training and video stream was done on Google Colab.
 
+The model achieved 69% validation accuracy which is apprximately 4% higher tha human-level accuracy.
 
 You can download the model [here.](https://drive.google.com/file/d/11Gb3gzrG2z9-IgqxisitJgYl-B1LAzmS/view)
 
