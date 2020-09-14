@@ -8,7 +8,7 @@ Due to computational limitations, model training and video stream was done on Go
 
 The model achieved 69% validation accuracy which is apprximately 4% higher tha human-level accuracy.
 
-You can download the model [here.](https://drive.google.com/file/d/11Gb3gzrG2z9-IgqxisitJgYl-B1LAzmS/view)
+You can download the trained model [here.](https://drive.google.com/file/d/11Gb3gzrG2z9-IgqxisitJgYl-B1LAzmS/view)
 
 #### Image Demo
 
